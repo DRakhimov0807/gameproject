@@ -1,2 +1,2 @@
-Ping pong game
+#Ping pong game
 Простая игра с использование библиотеки SFML
